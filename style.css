@@ -5,3 +5,8 @@ body {
     font-family: "Pacifico";
     align-items: center;
 }
+
+.header-image {
+    width: 540px;
+    height: auto;
+}
