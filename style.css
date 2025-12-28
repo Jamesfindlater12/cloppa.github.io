@@ -3,6 +3,7 @@ body {
     font-family: "Quicksand";
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin: 0px;
     
 }
