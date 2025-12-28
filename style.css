@@ -10,3 +10,8 @@ body {
     width: 540px;
     height: auto;
 }
+
+.landing-info {
+    color: #ee964b;
+    font-size: 32px;
+}
